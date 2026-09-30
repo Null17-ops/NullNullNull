@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding-block: 30px;
+}
+
+.header__container {
+    max-width: 1069px;
+    margin-inline: auto;
+}
+
+.header__nav {
+    display: flex;
+}
+
+.header__list {
+    display: flex;
+    list-style: none;
+    font-family: "Black Ops One";
+    font-size: large;
+}
